@@ -1,0 +1,10 @@
+{
+  "images": {
+    "sizes": [606],
+    "minimumCacheTTL": 60,
+    "formats": ["image/avif", "image/webp"],
+    "dangerouslyAllowSVG": false,
+    "contentSecurityPolicy": "script-src 'none'; frame-src 'none'; sandbox;",
+    "contentDispositionType": "inline"
+  }
+}
