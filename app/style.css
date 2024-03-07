@@ -1,0 +1,9 @@
+img,
+video,
+picture,
+object,
+embed,
+iframe {
+  display: block;
+  max-width: 100%;
+}
